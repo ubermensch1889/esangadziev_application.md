@@ -47,7 +47,7 @@
 
 **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ ]**
 
-* Python, библиотеки PyTelegramBotAPI, BeatifulSoup, zoneinfo, sqlite3, модули os, datetime и requests
+* Python, библиотеки PyTelegramBotAPI, BeatifulSoup, zoneinfo, sqlite3, schedule, модули os, datetime и requests
 * База данных SQLite и приложение SQLiteStudio для работы с ней
 * сервис geonames.org для обработки локации и получения часового пояса
 
