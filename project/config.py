@@ -1,4 +1,4 @@
-token = '1649817278:AAGUbWNDs0RP_cq4LSmHGniG8_6iR-X-xDs'
+token = 'тут должен быть мой токен, напишите, если понадобится'
 
 user_name_geonames = 'igw2021'
 time_zones_utc = {
